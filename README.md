@@ -1,6 +1,8 @@
 # Videos
 [CCXT - Cryptocurrency Exchange Trading Library Tutorial](https://www.youtube.com/watch?v=2Zdm2ISdm1Q)
-
+[Supertrend 4 - CCXT Crypto Bot - Order Execution with Python](https://www.youtube.com/watch?v=1PEyddA1y5E)
+[ccxt - Google Suche](https://www.google.com/search?q=ccxt&oq=ccxt+&aqs=chrome..69i57j35i39j0i512l3j69i60l3.22151j0j7&sourceid=chrome&ie=UTF-8)
+[IDEX Library](https://github.com/idexio "https://idex.io")
 # CCXT – CryptoCurrency eXchange Trading Library
 
 [![Build Status](https://travis-ci.com/ccxt/ccxt.svg?branch=master)](https://travis-ci.com/ccxt/ccxt) [![npm](https://img.shields.io/npm/v/ccxt.svg)](https://npmjs.com/package/ccxt) [![PyPI](https://img.shields.io/pypi/v/ccxt.svg)](https://pypi.python.org/pypi/ccxt) [![NPM Downloads](https://img.shields.io/npm/dy/ccxt.svg)](https://www.npmjs.com/package/ccxt) [![Discord](https://img.shields.io/discord/690203284119617602?logo=discord&logoColor=white)](https://discord.gg/dhzSKYU) [![Supported Exchanges](https://img.shields.io/badge/exchanges-115-blue.svg)](https://github.com/ccxt/ccxt/wiki/Exchange-Markets) [![Twitter Follow](https://img.shields.io/twitter/follow/ccxt_official.svg?style=social&label=CCXT)](https://twitter.com/ccxt_official)
